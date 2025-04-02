@@ -1,4 +1,6 @@
-# Objectives
+---
+title: Objectives
+---
 
 ## Establishing a “living document” as a resource and a forum
 Like many scientific areas, the modelling of Scottish Coastal Waters is a diverse and evolving topic. Even practitioners in the area can find it difficult to keep track of the broadening applications and new technological approaches. Scientists, technologists in related disciplines, and participants in related industries (i.e. almost any marine industry), may find it very difficult to engage, partly through simple ignorance of ongoing activity, and partly inexperience of the value of model output and analysis tools. Government, government agencies and NGOs may also be interested in the available capability and expertise but establishing a working relationship is hindered by difficulty of access.

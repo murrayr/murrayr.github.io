@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 published: true
 title: Community
+permalink: /community/
 order: 2
 ---
 

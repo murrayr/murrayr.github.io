@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 published: true
 title: Objectives
+permalink: /community/
 order: 1
 ---
 

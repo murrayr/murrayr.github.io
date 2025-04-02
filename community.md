@@ -1,4 +1,6 @@
-# Community
+---
+title: Community
+---
 
 ## Regulatory/public organisations
 Marine Scotland is a directorate of the Scottish Government and is the lead marine management organisation in Scotland. It integrates core marine functions involving scientific research, compliance monitoring, policy and management of Scotland's seas through its three main divisions: Compliance, Policy and Science. Marine Scotland’s mission is to “manage Scotland's seas for prosperity and environmental sustainability” and has a vision of having “clean, healthy, safe, productive, biologically diverse marine and coastal environments, managed to meet the long term needs of nature and people”. Marine Scotland Science (MSS) provides expert scientific and technical advice and services on issues relating to marine and freshwater fisheries, aquaculture, marine renewable energy, and the aquatic environment and its flora and fauna. MSS also provides the evidence to support the policies and regulatory activities of the Scottish Government through a programme of monitoring and research. The Marine Scotland Science Oceanography group routinely implements, runs and uses output from hydrodynamic models for a variety of marine science applications and research, and are the custodians of the Scottish Shelf Model (SSM).

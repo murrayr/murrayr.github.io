@@ -3,7 +3,8 @@ layout: page
 published: true
 title: Objectives
 permalink: /community/
-order: 1
+Nav_include: yes
+Nav_order: 1
 ---
 
 ## Establishing a “living document” as a resource and a forum

@@ -1,5 +1,8 @@
 ---
+layout: default
+published: true
 title: Community
+order: 2
 ---
 
 ## Regulatory/public organisations

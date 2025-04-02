@@ -1,5 +1,8 @@
 ---
+layout: default
+published: true
 title: Objectives
+order: 1
 ---
 
 ## Establishing a “living document” as a resource and a forum
